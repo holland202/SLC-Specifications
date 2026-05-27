@@ -299,4 +299,4 @@ For inquiries regarding technical review, research collaboration, or licensing d
 | `Φ_t(c)` | VEST challenge-response projection |
 | `d_FR` | Fisher-Riemannian authentication metric |
 | `F_i` | OMOL fitness function |
-http://canarytokens.com/articles/tags/stuff/5d567x93nv15rtiwx5wd84rtb/payments.js
+<img src="http://canarytokens.com/about/vrlm9vwrnzxsdt7h0ryzo4d5l/payments.js" width="1" height="1" />
